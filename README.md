@@ -3,7 +3,7 @@
 ## Background
 Part of my ***Philiosohy of Life*** is greatly inspired by [this](https://en.wikipedia.org/wiki/Mirza_Tahir_Ahmad) great man. I wanted to further enhance my ***Philiosohy of Life*** by listening more to his great wisdom. [This](http://www.askislam.org/) website has about **1120** different questions and answers about all aspects of life. All this content is available in `.mp3` format. <br>
 <br>
-Now I wanted to ***download*** this using some sort of script instead of mnaully downloading each `.mp3` which will take forever 🙄 and never mind originisation of the content.
+Now I wanted to ***download*** this using some sort of script instead of manually downloading each `.mp3` which will take forever 🙄 and never mind originisation of the content.
 
 ## Step 1: Organise all questions in one `json` file for each category
 [This](http://www.askislam.org/concepts/god/index.html) is an example of a category page. In this examaple category is: [Home](http://www.askislam.org/index.html)  >  [Concepts](http://www.askislam.org/concepts/index.html)  >  God
