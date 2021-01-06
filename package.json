@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cli-progress": "^3.4.0",
     "file-system": "^2.2.2",
     "jsonfile": "^5.0.0",
